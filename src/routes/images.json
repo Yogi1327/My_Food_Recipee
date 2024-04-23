@@ -1,0 +1,32 @@
+[
+  {
+    "alt": "one",
+    "src": "./images/one.jpg",
+    "title": "one"
+  },
+  {
+    "alt": "two",
+    "src": "./images/two.jpg",
+    "title": "two"
+  },
+  {
+    "alt": "three",
+    "src": "./images/three.jpg",
+    "title": "three"
+  },
+  {
+    "alt": "four",
+    "src": "./images/four.jpg",
+    "title": "four"
+  },
+  {
+    "alt": "five",
+    "src": "./images/five.jpg",
+    "title": "five"
+  },
+  {
+    "alt": "six",
+    "src": "./images/six.jpg",
+    "title": "six"
+  }
+]
